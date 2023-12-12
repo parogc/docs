@@ -1,5 +1,5 @@
 [build]
-publish = "Dooc.doccarchive/"
+publish = "Docc.doccarchive/"
 ###### Change it to your doccarchive file's name
 
 [[redirects]]
@@ -15,7 +15,7 @@ to = "/index.html"
 [[redirects]]
 from = "/data/documentation.json"
 status = 200
-to = "/data/documentation/dooc.json"
+to = "/data/documentation/docc.json"
 ###### Change it to name in ProjectName.doccarchive/data/documentation/...
 # often just all lowercase of your project name
 
