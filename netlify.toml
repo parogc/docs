@@ -18,3 +18,21 @@ status = 200
 to = "/data/documentation/fitsdk.json"
 ###### Change it to name in ProjectName.doccarchive/data/documentation/...
 # often just all lowercase of your project name
+
+[[redirects]]
+force = true
+from = "/"
+status = 302
+to = "/documentation/"
+
+[[redirects]]
+force = true
+from = "/documentation"
+status = 302
+to = "/documentation/"
+
+[[redirects]]
+force = true
+from = "/tutorials"
+status = 302
+to = "/tutorials/"
