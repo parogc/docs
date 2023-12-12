@@ -11,3 +11,10 @@ to = "/index.html"
 from = "/tutorials/*"
 status = 200
 to = "/index.html"
+
+[[redirects]]
+from = "/data/documentation.json"
+status = 200
+to = "/data/documentation/fitsdk.json"
+###### Change it to name in ProjectName.doccarchive/data/documentation/...
+# often just all lowercase of your project name
