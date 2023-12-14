@@ -1,6 +1,6 @@
 [build]
 publish = "FitSDK.doccarchive/"
-###### Change it to your doccarchive file's name
+/Applications###### Change it to your doccarchive file's name
 
 [[redirects]]
 from = "/documentation/*"
