@@ -1,6 +1,5 @@
 [build]
 publish = "FitSDK.doccarchive/"
-/Applications###### Change it to your doccarchive file's name
 
 [[redirects]]
 from = "/documentation/*"
@@ -16,8 +15,6 @@ to = "/index.html"
 from = "/data/documentation.json"
 status = 200
 to = "/data/documentation/fitsdk.json"
-###### Change it to name in ProjectName.doccarchive/data/documentation/...
-# often just all lowercase of your project name
 
 [[redirects]]
 force = true
